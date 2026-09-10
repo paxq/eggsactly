@@ -1,5 +1,5 @@
 .env
-confing.json
+config.json
 .tool-versions
 node_modules
 .vscode
