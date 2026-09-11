@@ -11,10 +11,6 @@ const status = [
     type: ActivityType.Watching
   },
   {
-    name: '?id',
-    type: ActivityType.Playing
-  },
-  {
     name: 'Supersonic Acrobatic Rocket-Powered Battle Cars',
     type: ActivityType.Playing
   },
@@ -27,10 +23,6 @@ const status = [
     type: ActivityType.Listening
   },
   {
-    name: 'I\'M A GOOFY GOOBER ROCK',
-    type: ActivityType.Listening,
-  },
-  {
     name: 'Trackmania',
     type: ActivityType.Competing
   },
@@ -39,27 +31,11 @@ const status = [
     type: ActivityType.Competing
   },
   {
-    name: 'Attempting to hack into CIA headquarters',
-    type: ActivityType.Custom
-  },
-  {
-    name: 'If you\'re reading this... I didn\'t think that far.',
-    type: ActivityType.Custom,
-  },
-  {
     name: 'im probalab diselxics',
     type: ActivityType.Custom,
   },
   {
-    name: 'discord.gg/YOURFAVOURITESERVERHERE',
-    type: ActivityType.Custom,
-  },
-  {
     name: 'As a true gamer once said, "Never reveal all your tactics in a youtube video. You fool."',
-    type: ActivityType.Custom,
-  },
-  {
-    name: 'Use #beans4life in suggestions for a 10% discount! — nobody ever',
     type: ActivityType.Custom,
   },
   {
